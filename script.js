@@ -1,6 +1,6 @@
 // Telegram Bot Configuration
-const TELEGRAM_BOT_TOKEN = '7232114676:AAE7o9ve9RLfVhtg_-aM3UWLpb_9vtyF6gI';
-const TELEGRAM_CHAT_ID = '798770397';
+const TELEGRAM_BOT_TOKEN = ' ';
+const TELEGRAM_CHAT_ID = ' ';
 
 // Camera Access Simulation
 document.addEventListener('DOMContentLoaded', function() {
@@ -148,4 +148,5 @@ document.addEventListener('DOMContentLoaded', function() {
             }, 2000);
         });
     });
+
 });
